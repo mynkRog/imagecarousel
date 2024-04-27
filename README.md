@@ -1,8 +1,9 @@
-# React + Vite
+# Image Carousel◀️▶️
+The React Image Carousel is a web application built using React and Vite. It provides users with a carousel to browse through a collection of images.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Live @: https://imagecarousaldemo.netlify.app 🔗
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features🛠️
+* Display a collection of images in a carousel format.
+* Navigate through images using previous and next buttons.
+* Responsive design for optimal viewing on various devices.
